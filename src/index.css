@@ -1,0 +1,12 @@
+:root {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+
+  --footer-height: 60px;
+  --logo-height: 8rem;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
