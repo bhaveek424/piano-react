@@ -31,7 +31,6 @@ You can choose to change the instrument any time you want and you get a great se
 </p>
 
 ***
-_[This Workflow was created with Tango](https://app.tango.us/app/workflow/b9f2a960-47f1-4ae5-9d68-f7f78a178579?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)_
 
 
 ## Credits
